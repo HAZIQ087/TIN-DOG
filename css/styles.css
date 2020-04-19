@@ -1,0 +1,152 @@
+#title{
+    background-color: rgb(245, 29, 101);
+
+
+}
+#cta{
+background-color:rgb(245, 29, 101) ;
+text-align: center;
+
+}
+#footer{
+    text-align: center;
+
+}
+.footer-desc{
+padding-bottom: 25px;
+padding-top: 10px;
+}
+.fo-img{
+padding-top: 50px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.cta-desc{
+
+padding: 150px 450px 50px 450px;
+color: white;
+font-size: 2.5rem;
+
+
+}
+.cta-btn-1{
+    margin-bottom: 150px;
+    margin-right: 10px;
+    
+}
+.cta-btn-2{
+    margin-bottom: 150px;
+    margin-left: 10px;
+    
+}
+
+.navbar-bran{
+    font-size: 3rem;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;;
+
+}
+.ip6{
+    width: 50%;
+    transform: rotate(25deg);
+    
+}
+
+.heading{
+    font-size: 4rem;
+    line-height: 1.5;
+    color: white;
+    padding-top: 15%;
+    
+    
+
+    
+}
+.container{
+    
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 15%;
+    padding-left: 15%;
+
+}
+.desc{
+    padding: 0 50px;
+
+}
+
+
+
+#features{
+   
+    padding-top: 5%;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-left:200px ;
+    padding-right:200px ;
+    
+}
+
+.f-img{
+    font-size: 80px;
+    
+}
+.feautre-box{
+    font-size: 1rem;
+}
+#testimonials{
+    background-color: rgb(165, 32, 165);
+    text-align: center;
+    padding: 3% 5% 10% 5% ;
+    
+}
+.testmo{
+    padding: 10px 400px 10px 400px;
+    color: white;
+}
+.dog-img{
+    width: 100px;
+    border-radius: 100%;
+}
+#press{
+    background-color: rgb(165, 32, 165);
+    text-align: center;
+    padding-bottom: 50px;
+
+
+
+}
+.b-img{
+    width: 200px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.card-title{
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.card-body{
+    text-align: center;
+}
+.pricing-desc{
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+#pricing{
+    margin: 5% 5% 5% 10%;
+}
+.signup-1{
+    margin-top: 55px;
+}
+.signup-2{
+    margin-top: 53px;
+}
